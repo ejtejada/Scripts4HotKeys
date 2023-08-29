@@ -11,4 +11,5 @@ else #Assume file path was given as a textfile whose internals is formata expect
 fi
 
 cd
-~/Media_Devices/SMOKI/Games/rpcs3/rpcs3-v0.0.9-10244-dbce10d0_linux64.AppImage $FILE1
+#~/Media_Devices/SMOKI/Games/rpcs3/rpcs3-v0.0.9-10244-dbce10d0_linux64.AppImage $FILE1
+~/Media_Devices/SMOKI/Games/rpcs3/rpcs3-v0.0.22-13575-2b325de6_linux64.AppImage $FILE1

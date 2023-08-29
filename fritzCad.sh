@@ -1,2 +1,2 @@
 #!/bin/bash
-Fritzing -f fritzing-parts
+fritzing -f fritzing-parts
